@@ -1,6 +1,11 @@
 # ACNLMusicApp
 A simple app that plays the hourly music from Animal Crossing: New Leaf depending on your system time.
 
+
+# Releases
+
+You can find releases [here](https://github.com/DaniLionn/ACNLMusicApp/releases/tag/release).
+
 # Building
 This app is currently Windows only.
 
