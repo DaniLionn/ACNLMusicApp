@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "pkg": "^5.8.1",
+    "play-sound": "^1.1.6"
+  },
+  "bin": "main.js",
+  "name": "acnlmusicapp",
+  "version": "1.0.0",
+  "description": "a simple app that plays the hourly music from animal crossing: new leaf depending on your system time",
+  "main": "main.js",
+  "author": "DaniLionn",
+  "license": "MIT",
+  "pkg": {
+    "scripts": "main.js",
+    "targets": [ "node16.16.0-win-x64" ],
+    "outputPath": "./"
+  }
+}
