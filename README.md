@@ -11,7 +11,7 @@ This app is currently Windows only.
 
 It requires you to have node.js and pkg installed on your machine ([node.js download](https://nodejs.org/en/download))
 
-In order to build this app, install pkg (if you don't have it installe already) ```npm install -g pkg``` in your terminal and then run build.bat
+In order to build this app, install pkg (if you don't have it installed already) ```npm install -g pkg``` in your terminal and then run build.bat
 
 Source code downloads come with the app already built.
 
