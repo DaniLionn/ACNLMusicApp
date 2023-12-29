@@ -55,7 +55,7 @@ setInterval(() => {
 
             playing = true
 
-            audio = player.play(audios[hour], { mpg123: ["-f", 4000] }, function(err) {
+            audio = player.play(audios[hour], { mpg123: ["-f", 6000] }, function(err) {
                 if (err) throw err
                 playing = false
             })
