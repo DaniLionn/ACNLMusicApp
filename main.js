@@ -40,7 +40,6 @@ setInterval(() => {
   console.clear();
   console.log("Playing!");
   console.log("It is currently " + time);
-  console.log(baseAudioPath, __dirname);
   if (lastHour != hour) {
     lastHour = hour;
     if (audio != null) {
