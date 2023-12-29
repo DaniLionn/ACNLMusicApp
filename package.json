@@ -12,6 +12,7 @@
   "license": "MIT",
   "pkg": {
     "scripts": "main.js",
+    "assets": ["audios/**/*", "./mpg123.exe"],
     "targets": [ "node16.16.0-win-x64" ],
     "outputPath": "./"
   }
